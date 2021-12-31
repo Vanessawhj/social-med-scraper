@@ -9,5 +9,6 @@ Configuration required:
 2. sentiment/creds,json - Service Account authentication credentials
 <br>
 <br>
+<br>
 
 ![alt text](https://github.com/Vanessawhj/social-med-scraper/blob/main/gui_image.png)
