@@ -1,0 +1,14 @@
+{
+    "instagram": {
+     "url": "", "suffix": "",
+    "email": "",
+    "password": ""
+    },
+
+    "facebook": {
+        "url": "https://www.facebook.com/", "suffix": "/photos",
+       "email": "",
+       "password": ""
+       }
+}
+
