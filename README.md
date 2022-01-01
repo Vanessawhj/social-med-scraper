@@ -11,4 +11,6 @@ Configuration required:
 <br>
 <br>
 
-![alt text](https://github.com/Vanessawhj/social-med-scraper/blob/main/gui_image.png)
+![alt text](https://github.com/Vanessawhj/social-med-scraper/blob/main/images/gui_image.png)
+<br>
+![alt text](https://github.com/Vanessawhj/social-med-scraper/blob/main/images/sentiment.png)
