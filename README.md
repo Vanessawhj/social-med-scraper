@@ -6,7 +6,7 @@ A GUI app for scraping Instagram & Facebook comments using PyQt5 and Selenium. A
 
 Configuration required:
 1. scraping/logins.json - FB and IG credentials
-2. sentiment/creds,json - Service Account authentication credentials
+2. sentiment/creds.json - Service Account authentication credentials
 <br>
 <br>
 <br>
